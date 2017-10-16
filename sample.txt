@@ -1,2 +1,5 @@
-Hello there, my name is 
-Arkadi, my oh my; arkadi
+Hello there, thank you for looking at this file.
+the file has two lines. The following are delimiters ,.;()
+I also can write things in caps and it wont MATTER.
+I will repeat repeat some words to make sure these are counted too.
+Like so, hello there, thank you...
